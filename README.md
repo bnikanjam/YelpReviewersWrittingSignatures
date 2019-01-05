@@ -1,0 +1,2 @@
+# yelp_reviewers_writting_signatures
+YELP REVIEWS: AUTHORSHIP ATTRIBUTION WITH PYTHON AND SCIKIT-LEARN
